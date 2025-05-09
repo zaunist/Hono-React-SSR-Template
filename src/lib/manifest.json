@@ -1,0 +1,18 @@
+{
+  "_vendor-B5FEM96X.js": {
+    "file": "static/vendor-B5FEM96X.js",
+    "name": "vendor"
+  },
+  "src/client.tsx": {
+    "file": "static/client-BsXzaoua.js",
+    "name": "client",
+    "src": "src/client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_vendor-B5FEM96X.js"
+    ],
+    "css": [
+      "static/client-BGaiYXId.css"
+    ]
+  }
+}
